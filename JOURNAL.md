@@ -52,3 +52,13 @@ I've been working on this project all week. But i've been forgetting to post abo
 
 ![11742](https://halflife.hackclub-assets.com/sessions/8PxktBTCGe7mPs4dSn1M9C3sxWoVNpfI/c3a6465e86f0408eeb5e1d98d1650d80046a074f161e234cbfc199aa124aa0fa.jpg)
 I made a pc b for my mini kindle! This is only my second time ever making a p c b so it took me a while to figure it out Because I tried to do it without tutorials this time and found out that that was the wrong idea. I also made my first custom footprint, which I'm pretty proud of too. It's not the most complicated PCB, it's just the escreen connected to the microcontroller connected to 2 buttons. When I was looking at ordering, my other pcb I saw that you can order it in different colors and I think i'm gonna order this one in purple. What was also challenging was trying to keep the buttons to the most side as possible, and trying to make sure my pcb is the right size to fit the case that I caded already. But worst case scenario I recadthe case.
+
+#History 
+ November 1st 
+- intial commit
+- added readme
+- added cad files
+- added code files
+- uppdated read me
+- added bom
+- uppdated journal 
